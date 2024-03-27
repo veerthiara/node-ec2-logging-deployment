@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "phone": "1234567890"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@gmail.com",
+    "phone": "1234567890"
+  },
+  {
+    "id": 3,
+    "name": "Alice",
+    "email": "alice@gmail.com",
+    "phone": "1234567890",
+    "department": "HR",
+    "designation": "Manager",
+    "salary": 50000,
+    "joining_date": "2020-01-01"
+  },
+  {
+    "id": 4,
+    "name": "Bob",
+    "email": "bob@gmail.com",
+    "phone": "1234567890",
+    "department": "IT",
+    "designation": "Developer",
+    "salary": 60000,
+    "joining_date": "2020-01-01"
+  },
+  {
+    "id": 5,
+    "name": "Charlie",
+    "email": "charlie@gmail.com",
+    "phone": "1234567890",
+    "department": "IT",
+    "designation": "Developer",
+    "salary": 60000,
+    "joining_date": "2020-01-01"
+  }]
